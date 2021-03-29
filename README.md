@@ -1,4 +1,4 @@
-# Holberton Shell 
+# Shell 
 The goal for this project was to build a UNIX command line interpreter that can :
 - Display a prompt and wait for the user to type a command
 - Display a prompt again each time a command has executed
